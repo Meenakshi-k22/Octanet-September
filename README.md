@@ -22,7 +22,7 @@ For this task, I followed a structured approach to design a clean and responsive
    - Smooth Design: Simple yet stylish design, with soft colors and professional-looking images.
 2. **Technologies Used:**
    - HTML (HyperText Markup Language)
-   - HTML is the basic building block of web pages. It defines the structure of content using elements like headings, paragraphs, images, and links. Each element is enclosed within tags (e.g., <h1>, <p>, <img>), which instruct the browser on how to display the content.
+   - HTML is the basic building block of web pages. It defines the structure of content using elements like headings, paragraphs, images, and links. Each element is enclosed within tags 
    - CSS (Cascading Style Sheets)
    - CSS is used to style and layout HTML elements. It controls the visual presentation, including colors, fonts, margins, and positioning. CSS ensures the page looks attractive and adapts to different screen sizes, creating a responsive design.
 3. **Responsive Design:**
@@ -58,4 +58,4 @@ This page focuses on:
 - An engaging headline encouraging users to buy ice cream.
 - Visual appeal through vibrant and delicious images of ice cream cups.
 
-![image](blob:https://web.whatsapp.com/7f5a860e-a626-4de0-8def-2db7d0009f03)
+![image]
