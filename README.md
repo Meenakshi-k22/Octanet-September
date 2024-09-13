@@ -58,5 +58,5 @@ This page focuses on:
 - An engaging headline encouraging users to buy ice cream.
 - Visual appeal through vibrant and delicious images of ice cream cups.
 
-![image]![webpage](https://github.com/user-attachments/assets/a94ae6fe-32e1-4acc-ba40-9d3d6abd6ddb)
+![webpage](https://github.com/user-attachments/assets/a94ae6fe-32e1-4acc-ba40-9d3d6abd6ddb)
 
